@@ -1,6 +1,6 @@
 
 class Employee:
-    """A sample Employee class"""
+    """A sample Employee class1"""
 
     def __init__(self, first, last):
         self.first = first
